@@ -19,7 +19,7 @@ I'm passionate about:
 - Bachelor's degree in Intelligent Systems Engineering from Tafilah Technical University  
   
 
-- Strong foundation in machine learning, deep learning, and data analysis[example   
+- Strong foundation in machine learning, deep learning, and data analysis
   
 
 🚀 What You'll Find on My GitHub:  
